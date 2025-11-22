@@ -11,20 +11,24 @@ In this project we have use various predictive models to see how accurate they a
 # Challenges 
 - the most important challenge here is to handle data imbalance. the number of Fraud transection is much less than comparing to Non-fraud transection. In ML, data balancing is crucial because it has a huge impact in model training. In this project, we have implemeted several data balancing method to handle this cahllenges and improve model perfromance.
 
-# The Technique We have implemeted:
-
-For Feature Selection:
--  t-sne + pca
--  Anova
-  
-For Handeling Imbalance:
-- Random Undesampling
-- SMOTE
-- Combination of SMOTE + UnderSampling
-
-Machine Learning Model:
-- KNN
-- Logistic Regreesion
-- Decision Tree
-- Random Forest
-- Nweural Network
+# Things we have done here:
+- Done Exploratory Data Abalysis
+  - find relation between data
+  - find their distribution and other related statistics
+  - etc.
+- Done Feature Selection:
+  -  t-sne + pca
+  -  Anova
+- Handele Data Imbalance:
+  - Random Undesampling
+  - SMOTE
+  - Combination of SMOTE + UnderSampling
+- Apply  Machine Learning Model:
+  - KNN
+  - Logistic Regreesion
+  - Decision Tree
+  - Random Forest
+  - Nweural Network
+- Evalue Model using
+  - matirces such as accuracy,precision etc.
+  - Confusion matrices
