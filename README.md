@@ -9,7 +9,7 @@ In this project we have use various predictive models to see how accurate they a
 - Understand common mistaked made with imbalanced datasets.
 
 # Challenges 
-- the most important challenge here is to handle data imbalance. the number of Fraud transection is much less than comparing to Non-fraud transection. In ML, data balancing is crucial because it has a huge impact in model training.
+- the most important challenge here is to handle data imbalance. the number of Fraud transection is much less than comparing to Non-fraud transection. In ML, data balancing is crucial because it has a huge impact in model training. In this project, we have implemeted several data balancing method to handle this cahllenges and improve model perfromance.
 
 # The Technique We have implemeted:
 
