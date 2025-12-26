@@ -64,7 +64,9 @@ This notebook aims to:
 - Random Forest
 - Gradient Boost
 
-# 4. # Objectives
+# 4. Bank Marketing Campaign for Opening a Term Deposit 
+
+## Objectives
 
 In general, datasets which contain marketing data can be used for 2 different business goals:
 
