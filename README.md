@@ -1,4 +1,4 @@
-# Credit-Card-Fraud-Detection
+# 1. Credit-Card-Fraud-Detection
 In this project we have use various predictive models to see how accurate they are in detecting whether a transaction is a normal payment or a fraud. 
 
 ## Our Goals:
@@ -32,3 +32,17 @@ In this project we have use various predictive models to see how accurate they a
 - Evalue Model using
   - matirces such as accuracy,precision etc.
   - Confusion matrices
+    
+# 2. Personal-Bank-Loan-Classification
+To use different classification models to predict the likelihood that a customer will buy a personal loan.
+
+## Problem
+- To predict whether a liability customer will buy a personal loan or not.
+- Which variables are most significant.
+- Which segment of customers should be targeted more.
+- Does Age have any impact of customer buying loan?
+- Do people with less income borrow loans .?
+  
+## Objective
+- To use different classification models to predict the likelihood that a customer will buy a personal loan.
+
